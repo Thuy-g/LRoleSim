@@ -1,2 +1,2 @@
 # LRoleSim
-We will publicize the source code and the datasets of the proposed algorithm LRoleSim.
+We will publicize the source code and the datasets used in our paper of the proposed algorithm LRoleSim.
